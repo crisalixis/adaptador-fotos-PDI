@@ -1,0 +1,2 @@
+Pillow>=9.0.0,<10.0.0  # Biblioteca para manipulación de imágenes
+configparser>=5.0.0,<6.0.0  # Manejo de archivos de configuración INI
